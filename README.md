@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dswede43&hide=TeX&layout=compact)
+
+![Visitor Count](https://profile-counter.glitch.me/dswede43/count.svg)
