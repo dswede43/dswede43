@@ -1,4 +1,12 @@
-### Hi there 👋
+### Daniel Stratis
+
+> Passionate biologist
+
+- Bioinformatician and Data Scientist
+- Currently working at the University of Ottawa (remote)
+- Experienced in generating, analyzing, and visualizing high-throughput transcriptomic and genomic datasets
+- My repositories highlight my capabilities in programming, statistics, and bioinformatics
+- Fun fact: I'm fluent in Swedish
 
 <!--
 **dswede43/dswede43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dswede43&hide=TeX&layout=compact)
