@@ -24,7 +24,3 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dswede43&hide=TeX&layout=compact)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dswede43&count_private=true&show_icons=true)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dswede43.dswede43)
