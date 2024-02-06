@@ -5,7 +5,7 @@
 - Bioinformatician and Data Scientist
 - Currently working at the University of Ottawa (remote)
 - Experienced in generating, analyzing, and visualizing high-throughput transcriptomic and genomic datasets
-- My repositories highlight my capabilities in programming, statistics, and bioinformatics
+- My repositories highlight my capabilities in programming, statistics, machine learning, and bioinformatics
 - Fun fact: I'm fluent in Swedish
 
 <!--
